@@ -4,3 +4,6 @@
 链接：https://blog.csdn.net/weixin_38750084/article/details/84205039
 # Swagger-Condegen
 链接：https://blog.csdn.net/hanerer1314/article/details/79496170
+# Java学习
+链接：http://bbs.itheima.com/thread-386464-1-1.html
+路线：https://jingyan.baidu.com/article/c1a3101e110864de656deb83.html
